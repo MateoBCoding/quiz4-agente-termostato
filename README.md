@@ -3,7 +3,7 @@
 Aplicación de escritorio que simula un agente reactivo simple controlando la climatización de una casa con cinco habitaciones (Sala, Cocina, Habitación Principal, Habitación Secundaria, Baño). Cada habitación tiene su propio agente termostato independiente con la misma tabla de siete reglas condición-acción.
 
 Quiz 4 — Inteligencia Artificial. Politécnico Colombiano Jaime Isaza Cadavid.
-Autor: **Mateo Betancur** — mateo.betancur@s4ds.com
+Autor: **Mateo Betancur**
 
 ---
 
